@@ -15,3 +15,7 @@ And BOOM! Captcha Solver Work.
 -cya
 
 m2_zm // 11.06.2025 // Turkiye
+
+13.06.2025
+
+It is not working because the captcha system has changed
